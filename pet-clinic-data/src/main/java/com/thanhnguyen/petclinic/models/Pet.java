@@ -1,4 +1,4 @@
-package com.thanhnguyen.petclinic.model;
+package com.thanhnguyen.petclinic.models;
 
 import java.time.Instant;
 
